@@ -59,11 +59,11 @@ input.invalid {
 }
 
 input.valid {
-    border-color: #6782fa;
+    border-color: #74c488;
 }
 
 button {
-    background-color: #6782fa;
+    background-color: #b85aee;
     color: white;
     border: none;
     padding: 10px;
@@ -73,5 +73,5 @@ button {
 }
 
 button:hover {
-    background-color:#6782fa;
+    background-color:#b85aee;
 }
